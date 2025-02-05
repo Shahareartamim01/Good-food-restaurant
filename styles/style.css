@@ -7,6 +7,7 @@
 }
 
 .btn{
+    margin-bottom: 10px;
     padding: 14px 18px 14px 18px;
     border-radius: 8px;
     background: rgb(82, 195, 3);
@@ -132,9 +133,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 25px;
+    gap: 15px;
     background-color: whitesmoke;
-    height: 390px;
+    /* height: 390px; */
     border-radius: 8px;
 }
 
@@ -175,7 +176,7 @@
 }
 
 img{
-    width: 300px;
+    width: 100%;
 }
 
 #card-box .container .card-btn{
@@ -193,7 +194,7 @@ img{
     margin-top: 35px;
 }
 
-#card-box .container .card-button{
+/* #card-box .container .card-button{
     display: flex;
     justify-content: center;
-}
+} */
